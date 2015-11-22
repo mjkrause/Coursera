@@ -22,10 +22,8 @@ idx_std <- grep("std", s)
 idx <- sort(append(idx_std, idx_mean)) # get index of interest
 
 # Restrict feature vector by index.
-V1 <- feat$V1[idx]
 V2 <- feat$V2[idx]
-df_feat <- data.frame(V1, V2) 
-featureNames <- as.character(df_feat$V2)
+featureNames <- as.character(V2)
 X <- X[idx]   # subset X to contain only date of mean and std features
 
 # Load and concatenate the activity vectors.
