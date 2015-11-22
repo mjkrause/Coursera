@@ -2,7 +2,7 @@
 #### - Create a tidy data table showing means and standard deviation of activity data generated using Smartphone gyroscope and accelerometer data -
 
 ##### Description of the "tideData.txt" table
-###### The data are from the "Human Activity Recognition Using Smartphones Dataset", compiled by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto at the Smartlab - Non Linear Complex Systems Laboratory, DITEN - Università degli Studi di Genova. See www.smartlab.ws and http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones for more information. 
+The data are from the "Human Activity Recognition Using Smartphones Dataset", compiled by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto at the Smartlab - Non Linear Complex Systems Laboratory, DITEN - Università degli Studi di Genova. See www.smartlab.ws and http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones for more information. 
 
 ##### Experimental design of the original study and original data representation
 ###### Experiments have been carried out with a group of 30 volunteers, and each person performed six (6) activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using the phone's embedded accelerometer and gyroscope, 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50 Hz were captured. The cohort was originally divided into two groups, but both groups were combined in the "tidyData.txt" table.
